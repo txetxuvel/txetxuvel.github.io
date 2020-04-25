@@ -24,7 +24,7 @@ title:                 txetxuvel
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  txetxu Velayos's personal website
+  **txetxu Vel**ayos's personal website
 
 # A shorter description for the sidebar.
 tagline:               >
@@ -49,9 +49,11 @@ author:
 menu:
   - title:             Example
     url:               /example/
-  - title:             Documentation
-    url:               https://hydejack.com/docs/
-  - title:             About
+  - title:             Blog
+    url:               /blog/
+  - title:             Sobre mi
+    url:               /sobre-mi/
+  - title:             About me
     url:               /about/
 
 # Add links to the footer.
@@ -63,7 +65,7 @@ legal:
     url:               /politica-de-cookies/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2019. All rights reserved. Open `_config.yml` to edit this text.
+copyright:             © 2020 - Todos los derechos reservados
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
@@ -197,12 +199,12 @@ hydejack:
     always:            false
 
     # Set to `true` to use the dark theme based on visitors' local time.
-    dynamic:           true
+    dynamic:           false
     sunrise:           6
     sunset:            18
 
     # Set to `true` to allow visitors to switch between light and dark mode.
-    icon:              true
+    icon:              false
 
   # ⚡️ DANGER ZONE ⚡️
   # ----------------
@@ -246,7 +248,7 @@ exclude:
   - _plugins
   - .sass-cache
 include:
-  - LICENSE.md
+#  - LICENSE.md
 
 
 # Plugins
