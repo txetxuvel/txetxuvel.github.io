@@ -3,6 +3,7 @@ layout: post
 title: El pecho sí, pero sin presiones
 description: >
   Dar el pecho puede ser precioso, pero también muy duro y no nos lo cuentan
+hide_description: true
 image: /assets/img/blog/dar-pecho.jpg
 ---
 
