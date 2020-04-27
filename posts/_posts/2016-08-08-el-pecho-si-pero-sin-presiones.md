@@ -4,7 +4,7 @@ title: El pecho sí, pero sin presiones
 description: >
   Dar el pecho puede ser precioso, pero también muy duro y no nos lo cuentan
 hide_description: true
-image: /assets/img/blog/dar-pecho.jpg
+image: /assets/img/blog/pezonera.jpg
 ---
 
 La sociedad en general idealiza el tema de la paternidad y sobre todo de la maternidad, lo que crea una presión social comparable con pocas cosas en las edades comprendidas entre los 20ypico y los 40.
